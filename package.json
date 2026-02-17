@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@lblod/mu-auth-sudo": "^0.6.2",
+    "n3": "^1.24.2"
+  }
+}
